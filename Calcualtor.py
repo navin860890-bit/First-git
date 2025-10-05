@@ -1,3 +1,3 @@
 print("Addition:", 2+3)
 print("Subraction:", 5-1)
-   
+print("Multiplication:", 3*2)
